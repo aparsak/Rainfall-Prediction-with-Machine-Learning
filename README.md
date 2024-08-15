@@ -33,13 +33,13 @@ For detailed descriptions and additional information, please refer to the [**rep
    - Train and evaluate K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Decision Trees classifiers.
    - Optimize models by tuning hyperparameters such as the number of components for PCA, the number of neighbors for KNN, and tree depth for Decision Trees.
 
-4. **Results** 🏆
+4. **Results** 
    - Evaluate model performance using accuracy, confusion matrix, and classification reports.
    - Visualize results with scatter plots, PCA-transformed data plots, and confusion matrices.
 
 ## Files
 
-- `knn_svm_decision_tree.ipynb`: Jupyter notebook containing the complete workflow, including data preprocessing, feature engineering, model training, and evaluation.
+- `knn_svm.ipynb and decision_tree.ipynb`: Jupyter notebook containing the complete workflow, including data preprocessing, feature engineering, model training, and evaluation.
 - `Dataset.csv`: The raw dataset used for analysis and modeling.
 - `report.pdf`: Detailed project report with comprehensive descriptions and analyses.
 
